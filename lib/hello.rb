@@ -9,7 +9,7 @@ while i < array.length
   
   array
 else 
-  puts "Hey! Np block was given!"
+  puts "Hey! No block was given!"
   end
 end
 
